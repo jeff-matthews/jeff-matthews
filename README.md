@@ -4,9 +4,11 @@
 **jeff-matthews/jeff-matthews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I’m an experienced technical writer and documentation manager with a proven track record in both fast-paced startup environments and large-scale enterprise organizations.
+As a technical writing manager, I thrive on building documentation programs from the ground up—especially when they’re rooted in a docs-as-code philosophy. What excites me most is the opportunity to integrate documentation seamlessly into the development lifecycle, treating it with the same rigor, tooling, and collaboration as code. This approach not only enhances accuracy and consistency but also empowers engineers and writers to work together in a shared ecosystem.
 
-I have a passion for establishing and leading documentation projects from the ground up centered on a docs-as-code approach.
+I’m passionate about establishing scalable, maintainable documentation systems that are version-controlled, automated, and CI/CD-friendly. From selecting the right static site generators and content frameworks to defining contribution models and review workflows, I enjoy architecting every layer of the documentation stack. My goal is always to create a culture where documentation is not an afterthought, but a first-class citizen in the product development process.
+
+Leading these initiatives means mentoring writers, collaborating cross-functionally, and championing user-centric content strategies. I find deep satisfaction in transforming fragmented or outdated documentation into a modern, developer-friendly experience that drives product adoption and reduces support overhead.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jeff-matthews-docs/)
 
