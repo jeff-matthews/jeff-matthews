@@ -4,6 +4,10 @@
 **jeff-matthews/jeff-matthews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+I’m an experienced technical writer and documentation manager with a proven track record in both fast-paced startup environments and large-scale enterprise organizations.
+
+I have a passion for establishing and leading documentation projects from the ground up centered on a docs-as-code approach.
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jeff-matthews-docs/)
 
 ***Some stats***
